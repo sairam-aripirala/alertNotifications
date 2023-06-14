@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  font-family: 'ROBOTO';
+}
+.heading {
+  color: #0f172a;
+  font-size: 40px;
+}
+.text-con {
+  width: 40vw;
+  height: 18vh;
+}
+.icon-size {
+  height: 25px;
+  width: 25px;
+  margin-right: 25px;
+}
+.success {
+  color: #2dca73;
+}
+.error {
+  color: #ff0b37;
+}
+.warning {
+  color: #ffb800;
+}
+.info {
+  color: #0f81e0;
+}
+.text {
+  color: #475569;
+}
